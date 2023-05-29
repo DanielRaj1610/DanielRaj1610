@@ -38,9 +38,4 @@ Here are some ideas to get you started:
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 
-[![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=DanielRaj1610&count_private=true&show_icons=true&theme=merko&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRaj1610&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanielRaj1610&theme=dark)](https://git.io/streak-stats)
